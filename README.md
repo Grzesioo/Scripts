@@ -1,1 +1,1 @@
-Very simple script for few basic system information
+Very simple script for few basic system information.
